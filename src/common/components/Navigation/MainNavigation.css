@@ -1,0 +1,17 @@
+
+  
+  .mainnav-title {
+    color: #d8aebc;
+  }
+
+  
+  .mainnav-title a {
+    text-decoration: none;
+    transition: color .2s ease-out;
+    color: #f1f1f2;;
+  }
+  .mainnav-title a:hover {
+    color: rgb(235, 87, 87);
+  }
+
+  
